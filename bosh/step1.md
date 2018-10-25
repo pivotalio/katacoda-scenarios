@@ -14,6 +14,8 @@ This is an _example_ of creating a scenario and running a **command**
 
 `sudo mv ./bosh-cli-5.3.1-linux-amd64 /usr/local/bin/bosh`{{execute}}
 
+`bosh -v`{{execute}}
+
 
 
 
