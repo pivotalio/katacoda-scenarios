@@ -4,6 +4,8 @@ This is your first step.
 
 This is an _example_ of creating a scenario and running a **command**
 
+`apt-get install wget`{{execute}}
+
 `bosh -v`{{execute}}
 
 `wget https://github.com/cloudfoundry/bosh-cli/releases/download/v5.3.1/bosh-cli-5.3.1-linux-amd64`{{execute}}
