@@ -7,6 +7,9 @@
     "steps": [{
       "title": "Step 1 - Bosh Install",
       "text": "step1.md"
+    }, {
+      "title": "Step 2 - Run",
+      "text": "step1.md"
     }],
     "intro": {
       "text": "intro.md",
